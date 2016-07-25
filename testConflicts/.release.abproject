@@ -1,6 +1,5 @@
 {
   "CorePlugins": [
-    "com.ohh2ahh.plugins.appavailability@0.3.1",
     "cordova-plugin-battery-status",
     "cordova-plugin-camera",
     "cordova-plugin-contacts",
@@ -19,6 +18,7 @@
     "cordova-plugin-splashscreen",
     "cordova-plugin-statusbar",
     "cordova-plugin-vibration",
-    "cordova-plugin-whitelist"
+    "cordova-plugin-whitelist",
+    "uk.co.whiteoctober.cordova.appversion@0.1.7"
   ]
 }
