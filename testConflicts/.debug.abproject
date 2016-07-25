@@ -20,6 +20,6 @@
     "cordova-plugin-statusbar",
     "cordova-plugin-vibration",
     "cordova-plugin-whitelist",
-    "uk.co.whiteoctober.cordova.appversion@0.1.4"
+    "uk.co.whiteoctober.cordova.appversion@0.1.5"
   ]
 }
